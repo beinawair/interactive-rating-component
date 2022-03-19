@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/beinawair/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://beinawair.github.io/interactive-rating-component/)
+- Solution URL: [Repo](https://github.com/beinawair/interactive-rating-component)
+- Live Site URL: [Live Page](https://beinawair.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -74,9 +74,9 @@ Well, I think I might try to write more efficient and more effective code for th
 
 ## Author
 
-- Website - [Add your name here](https://beinawair.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/beinawair)
-- Twitter - [@yourusername](https://www.twitter.com/beinawair)
+- Website - [Beinawair](https://beinawair.com)
+- Frontend Mentor - [@beinawair](https://www.frontendmentor.io/profile/beinawair)
+- Twitter - [@beinawair](https://www.twitter.com/beinawair)
 
 
 ## Acknowledgments
